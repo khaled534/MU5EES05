@@ -8,4 +8,5 @@ int main()
 
 
     printf("addition : \n %d = %d + %d ",b,x,y);
+    printf ("toto"); 
 }
