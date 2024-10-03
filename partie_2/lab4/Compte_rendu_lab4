@@ -1,0 +1,19 @@
+4- on utilise ls -lrt pour afficher la taille occuper des fichiers (space disk) 
+5- la taille du repertoire sardar est du a l'affichage de l'espace du disk dediee a cette directory et non pas son vrai size
+6- meme remarque
+7- le fichier inode est index pour retrouver les fichiers dans notre hard drive (dans le disque) c(est les coordonnees ou se trouve nos fichiers 
+8- oui .lightbulb
+9- pour afficher les fichiers du plus anciencs au plus recents on utilise : ls -rt
+10- on utilise ls -Sr
+12- more file 
+20- afficher 20 lignes : tail -20
+23- grep -i Money 
+25- pwd pour verifier le repertoire 
+28- je n'ai pas de microsoft (*_*)
+29- ln -s pour lien symbolique 
+30- oui ils sont colorees en bleu 
+32- chmod pour manipuler les droits 
+33- ls -lrt fichier pour afficher les droits 
+34- archive avec : tar jcvf archive.tar.bz2 
+35- lister sans decompresser : tar jtvf lab4.tar.bz2
+
