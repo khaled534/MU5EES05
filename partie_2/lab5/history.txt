@@ -1,0 +1,830 @@
+    1  ls
+    2  cd Downloads/
+    3  ls
+    4  sude apt install linux_recovery.sh 
+    5  sudo apt install linux_recovery.sh 
+    6  sudo chmod 755 linux_recovery.sh
+    7  sudo bash linux_recovery.sh~
+    8  sudo bash linux_recovery.sh 
+    9  clear
+   10  exit
+   11  cd Downloads/
+   12  ls
+   13  sudo Xilinx_unified_2020.2_1118_1232_Lin64.bin
+   14  exit
+   15  cd Downloads/
+   16  $sudo mkdir /opt/Xilinx$sudo chmod –R 777 /opt/Xilinx
+   17  sudo mkdir /opt/Xilinx
+   18  sudo chmod _R 777 /opt/Xilinx
+   19  sudo chmod -R 777 /opt/Xilinx
+   20  ls
+   21  cd Xilinx_Unified_2020.2_1118_1232
+   22  ls
+   23  sudo ./xsetup
+   24  cd Downloads/
+   25  cd Xilinx_Unified_2020.2_1118_1232
+   26  sudo ./xsetup
+   27  cd .
+   28  ls
+   29  cd ..
+   30  ls
+   31  ./Xilinx_Unified_2020.2_1118_1232_Lin64.bin
+   32  sudo ./Xilinx_Unified_2020.2_1118_1232_Lin64.bin
+   33  sudo Xilinx_Unified_2020.2_1118_1232_Lin64.bin
+   34  ./Xilinx_Unified_2020.2_1118_1232_Lin64.bin
+   35  cd Xilinx_Vivado_Vitis_Update_2020.2.1_1211_2237/
+   36  ls
+   37  sudo ./xsetup
+   38  cd Downloads/
+   39  ls
+   40  cd poweriso-x64-1.6/
+   41  ls
+   42  sudo poweriso-x64
+   43  cat poweriso-x64 
+   44  [200~ar zxvf poweriso-1.6.tar.gz~
+   45  tar zxvf poweriso-1.6.tar.gz
+   46  cd Downloads/
+   47  cd poweriso-x64-1.6/
+   48  tar zxvf poweriso-1.6.tar.gz
+   49  cd ..
+   50  tar zxvf poweriso-1.6.tar.gz
+   51  ./poweriso-x64-1.6/
+   52  cd poweriso-x64-1.6/
+   53  ./poweriso-x64 
+   54  poweriso -
+   55  poweriso -?
+   56  ./poweriso -?
+   57  poweriso -?
+   58  poweriso 
+   59  ./poweriso-x64 
+   60  ./poweriso-x64 -?
+   61  ./poweriso-x64 burn
+   62  sudo apt get update
+   63  sudo apt-get update
+   64  sudo apt install update
+   65  cd Downloads/
+   66  ls
+   67  cd Xilinx_Unified_2020.2_1118_1232/
+   68  ls
+   69  sudo xsetup.exe 
+   70  sudo ./xsetup
+   71  cd 
+   72  ls
+   73  cd ..
+   74  ls
+   75  cd ..
+   76  ls
+   77  cd media/
+   78  ls
+   79  cd khaled/
+   80  ls
+   81  cd KHALED/
+   82  ls
+   83  chmod +w 
+   84  chmod +w /media/khaled/KHALED
+   85  ls
+   86  sudo apt get update 
+   87  clear 
+   88  sudo apt-get install update
+   89  sudo apt-get install upgrade
+   90  sudo apt-get upgrade
+   91  clear
+   92  sudo apt-get upgrade
+   93  apt-get update
+   94  sudo apt-get update
+   95  sudo apt-get install update
+   96  sudo apt-get install upgrade
+   97  sudo apt-get upgrade
+   98  clear
+   99  sudo apt-get install upgrade
+  100  sudo apt-get upgrade
+  101  sudo apt-get update
+  102  sudo apt-get install update
+  103  sudo apt-get upgrade 
+  104  sudo apt-get install upgrade 
+  105  sudo apt full-upgrade
+  106  cd Downloads/
+  107  ls
+  108  dpkg-deb -x Pumble-linux-1.3.28.deb /Downloads/
+  109  sudo dpkg-deb -x Pumble-linux-1.3.28.deb /Downloads/
+  110  ls
+  111  ar x Pumble-linux-1.3.28.deb 
+  112  cd Pumble/
+  113  ls
+  114  tar -wvf data.tar.xz 
+  115  tar -wvf control.tar.gz 
+  116  tar -xvf control.tar.gz 
+  117  tar -xvf data.tar.xz 
+  118  clear
+  119  cd ..
+  120  cd..
+  121  cd ..
+  122  clear
+  123  cd Downloads/
+  124  sudo dpkg -i Pumble-linux-1.3.28.deb 
+  125  sudo apt-get install -f
+  126  pumble
+  127  Pumble
+  128  mumble
+  129  sudo apt-get upgrade
+  130  clear
+  131  sudo Pumble
+  132  sudo pumble
+  133  clear
+  134  exit
+  135  version 
+  136  exit
+  137  ls
+  138  cd .config/
+  139  ls
+  140  cd ..
+  141  ls
+  142  mkdir .cat_installer
+  143  cd .cat_installer/
+  144  ls
+  145  ls
+  146  cd /root/
+  147  sudo su
+  148  sudo python3 eduroam-linux-sorbonne-universite.fr.py 
+  149  ls .*
+  150  ls
+  151  cd Downloads/
+  152  ls
+  153  sudo python3 eduroam-linux-sorbonne-universite.fr.py 
+  154  sudo apt install git gitk git-email 
+  155  git config --global user.name"[khaled]"
+  156  git config --global user.name"khaled"
+  157  git config --global user.email khaleddouadi85@gmail.com
+  158  git config --global user.email
+  159  git config --global user.name
+  160  git config --global user.name khaled
+  161  git config --global user.name 
+  162  cd Documents/
+  163  ls
+  164  mkdir test 
+  165  cd test/
+  166  mkfil 
+  167  make file
+  168  nano DOUADI 
+  169  ls
+  170  nano DOUADI 
+  171  clear
+  172  git init DOUADI
+  173  git add DOUADI 
+  174  git status
+  175  git status DOUADI 
+  176  cd ..
+  177  ls
+  178  git init test/
+  179  git status
+  180  git status test
+  181  git init 
+  182  ls -a
+  183  git remove 
+  184  rm .git/
+  185  rm -d .git/
+  186  rm -help
+  187  rm --help
+  188  rm -d .git/
+  189  rm -r .git/
+  190  ls -a
+  191  clear
+  192  cd test/
+  193  ls -a
+  194  git status .git/
+  195  git branch
+  196  git branch -a
+  197  ls .git
+  198  git add --help
+  199  git add DOUADI 
+  200  ls -a .git
+  201  ls
+  202  git status
+  203  clear
+  204  git commit -m "c'est git la"
+  205  git status 
+  206  git remote https://github.com/khaled534/Test.git
+  207  git remote add origin https://github.com/khaled534/Test.git
+  208  git push -u origin master
+  209  nano mot-de-passe
+  210  ls
+  211  clear
+  212  git config credential.helper store 
+  213  git push -u origin master 
+  214  git config credential.helper store 
+  215  git push -u origin master 
+  216  git pull 
+  217  git status 
+  218  ls
+  219  clear
+  220  git pull 
+  221  git push 
+  222  cd ./Downloads
+  223  cd .Downloads
+  224  clear
+  225  cd .. /Downloads/
+  226  cd /Downloads/
+  227  ls
+  228  cd ..
+  229  ls
+  230  cd Downloads/
+  231  ls
+  232  cd ..
+  233  cd Downloads/
+  234  ls -a
+  235  ls
+  236  pwd
+  237  ls
+  238  cd 
+  239  ls
+  240  cd Downloads/
+  241  ls
+  242  cd /Downloads/
+  243  ls
+  244  cd /
+  245  pwd
+  246  ls
+  247  cd 
+  248  ls
+  249  cd Downloads/
+  250  ls
+  251  cd /Downloads/
+  252  ls
+  253  cd ..
+  254  ls
+  255  rm -r Downloads/
+  256  ls
+  257  cd
+  258  ls
+  259  cd Downloads/
+  260  ls
+  261  git clone 
+  262  git clone origin 
+  263  git clone https://github.com/khaled534/Test.git
+  264  ls
+  265  cd Test/
+  266  ls
+  267  clear
+  268  cd
+  269  ls
+  270  cd Desktop/
+  271  ls
+  272  mkdir MU5EES05
+  273  cd MU5EES05/
+  274  ls
+  275  ls -a
+  276  clear
+  277  mkdir partie_1 partie_2
+  278  ls
+  279  mkdir partie_3 partie_4 partie_5
+  280  ls
+  281  mkdir partie_6
+  282  ls
+  283  cd partie_1 
+  284  ls
+  285  mkdir lab2 lab3 lab4 
+  286  ls
+  287  cd lab2
+  288  nano cr_lab2.md
+  289  ls
+  290  nano cr_lab2.md 
+  291  cd 
+  292  cd Downloads/
+  293  ls
+  294  cd Test/
+  295  ls
+  296  cd ..
+  297  cd Desktop/
+  298  ls
+  299  cd MU5EES05/
+  300  ls
+  301  git init 
+  302  git status 
+  303  git add 
+  304  git add .
+  305  git status
+  306  git commit -m "c'est juste mon travail"
+  307  git remote origin https://github.com/khaled534/MU5EES05.git
+  308  git remote add origin https://github.com/khaled534/MU5EES05.git
+  309  git push -u origin master
+  310  clear
+  311  exit
+  312  sudo apt-get update
+  313  sudo apt-get upgrade
+  314  clear
+  315  exit
+  316  clear
+  317  cd Desktop/
+  318  ls
+  319  cd MU5EES05/
+  320  ls -a
+  321  clear
+  322  git push 
+  323  clear
+  324  exit 
+  325  --help
+  326  what about this 
+  327  clear
+  328  exit
+  329  git config pull.rebase false
+  330  cd Desktop/
+  331  ls
+  332  cd MU5EES05/
+  333  ls
+  334  ls -a
+  335  git status
+  336  git push
+  337  git config credential.helper store
+  338  git push
+  339  git pull
+  340  clear
+  341  cd partie1
+  342  ls
+  343  cd partie_1
+  344  ls
+  345  cd lab3
+  346  nano cr_lab3.md
+  347  ls
+  348  git push
+  349  git commit -m lab3
+  350  cd ..
+  351  git push
+  352  git add 
+  353  clear
+  354  cd partie_1
+  355  cd lab2
+  356  ls -a
+  357  cd ..
+  358  git commit -m "C'est un essai"
+  359  git add partie_1/lab3/
+  360  git push
+  361  git commit -m "C'est un essai"
+  362  git push 
+  363  cd partie_1/
+  364  ls
+  365  cd lab4
+  366  nano cr_lab4.md
+  367  cd ..
+  368  cd partie_2
+  369  ls
+  370  cd ..
+  371  ls partie_3
+  372  ls partie_4
+  373  ls partie_5
+  374  cd
+  375  cd Desktop/MU5EES05/
+  376  ls
+  377  ls partie_1
+  378  clear
+  379  git add partie_1/lab4/
+  380  git commit -m hello
+  381  git push  
+  382  clear
+  383  gcc -version
+  384  gcc
+  385  clear
+  386  vscode
+  387  clear
+  388  git pull 
+  389  cd partie_1/lab3/
+  390  ls
+  391  nano code.c
+  392  git push 
+  393  git add
+  394  git commit -m c'est vscode
+  395  git commit -m "c'est vscode"
+  396  git add code.c 
+  397  git commit -m "c'est vscode"
+  398  git push 
+  399  git status 
+  400  clear
+  401  ls
+  402  exit
+  403  clear
+  404  cd ..
+  405  cd Music/
+  406  ls
+  407  git clone https://github.com/khachicha/MU5EES05_lab_4.git
+  408  ls
+  409  ls -a
+  410  cd MU5EES05_lab_4/
+  411  ls -a
+  412  rm -r .git/
+  413  ls -a
+  414  cd ..
+  415  cp MU5EES05_lab_4 
+  416  cp -r MU5EES05_lab_4/ 
+  417  cp -r MU5EES05_lab_4/ /Desktop/MU5EES05/partie_1/lab4
+  418  cp -r MU5EES05_lab_4/ ~/Desktop/MU5EES05/partie_1/lab4
+  419  cd 
+  420  cd Desktop/MU5EES05/
+  421  cd partie_1
+  422  cd lab4
+  423  ls
+  424  cd MU5EES05_lab_4/
+  425  ls
+  426  cp answering-machine.txt Microsoft README.md sardar/ ~/Desktop/MU5EES05/partie_1/lab4
+  427  cp answering-machine.txt Microsoft README.md  ~/Desktop/MU5EES05/partie_1/lab4
+  428  ls
+  429  cd ..
+  430  ls
+  431  cd MU5EES05_lab_4/
+  432  cp sardar/ ~/Desktop/MU5EES05/partie_1/lab3
+  433  cp -r sardar/ ~/Desktop/MU5EES05/partie_1/lab3
+  434  ls
+  435  cd ..
+  436  ls
+  437  cd ..
+  438  cd lab3
+  439  ls
+  440  rm -r sardar/
+  441  ls
+  442  cd lab4
+  443  cd ..
+  444  cd lab4
+  445  ls
+  446  cd MU5EES05_lab_4/
+  447  ls
+  448  cp -r sardar/ ~/Desktop/MU5EES05/partie_1/lab4
+  449  cd ..
+  450  ls
+  451  rm -r MU5EES05_lab_4/
+  452  ls
+  453  ls -a
+  454  cd sardar/
+  455  ls
+  456  ls -a
+  457  cd ..
+  458  size sardar/
+  459  size -r sardar/
+  460  clear
+  461  ls lrt
+  462  ls -lrt
+  463  cd sardar/
+  464  ls -lrt
+  465  cd ..
+  466  du Microsoft 
+  467  ls -lrt Microsoft 
+  468  stat Microsoft 
+  469  ls -lrt
+  470  stat Microsoft 
+  471  ls -a
+  472  stat inod 
+  473  stat Inode 
+  474  clear
+  475  stat Microsoft 
+  476  ls 
+  477  ls -a 
+  478  cd /.
+  479  ls
+  480  cd ..
+  481  cd /..
+  482  ls
+  483  cd ..
+  484  ls
+  485  cd .. 
+  486  ls
+  487  cd 
+  488  cd Desktop/MU5EES05/partie_1/lab4
+  489  ls
+  490  cat Microsoft 
+  491  clear
+  492  stat  
+  493  stat Microsoft 
+  494  ls -i Microsoft 
+  495  ls -t
+  496  ls -rs
+  497  ls -r -s 
+  498  ls -a sardar/
+  499  ls -s sardar/
+  500  ls -r -s 
+  501  ls -lt -s -r 
+  502  ls -lt -s  
+  503  ls -s  
+  504  ls -s sardar/
+  505  clear
+  506  ls -ls 
+  507  ls -s 
+  508  ls -ls -r  
+  509  ls -ls -reverse   
+  510  ls -lS    
+  511  ls -lS -r 
+  512  clear
+  513  ls -s
+  514  ls -S 
+  515  ls
+  516  nano answering-machine.txt 
+  517  tail -20 sardar/sardar3.txt 
+  518  grep "trust" Microsoft 
+  519  grep -r Money 
+  520  ls -a 
+  521  ls -a sardar/
+  522  cd 
+  523  cd Music/
+  524  ls
+  525  cd MU5EES05_lab_4/
+  526  ls -a 
+  527  ls -a sardar/
+  528  cd 
+  529  cd Desktop/
+  530  cd MU5EES05/
+  531  cd partie_1/lab4
+  532  ls
+  533  grep -ri Money 
+  534  grep -r -i Money 
+  535  cd 
+  536  cd Music/
+  537  git clone https://github.com/khachicha/MU5EES05_lab_4.git
+  538  ls
+  539  cd ..
+  540  ls
+  541  cd Pictures/
+  542  ls
+  543  git clone https://github.com/khachicha/MU5EES05_lab_4.git
+  544  ls
+  545  cd MU5EES05_lab_4/
+  546  ls
+  547  ls -a
+  548  rm -r .git
+  549  rm -rf .git
+  550  ls -a 
+  551  cp -f .lightbulb ~/Desktop/MU5EES05/partie_1/lab4
+  552  cd
+  553  cd Desktop/MU5EES05/partie_1/lab4
+  554  ls
+  555  ls-a
+  556  ls -a
+  557  cd Desktop/MU5EES05/partie_1/lab4/
+  558  ls 
+  559  ls -a
+  560  mv --help
+  561  cat .lightbulb 
+  562  mv .lightbulb lightbulb
+  563  ls
+  564  ls -a
+  565  cat lightbulb 
+  566  clear
+  567  cp -f sardar/sardar3.txt ~/Desktop/MU5EES05/partie_1/lab3/
+  568  ls sardar/
+  569  cd ~/Desktop/MU5EES05/partie_1/lab3
+  570  ls
+  571  rm -f sardar3.txt 
+  572  ls
+  573  cd ..
+  574  cd lab4
+  575  mv sardar/sardar3.txt ~/Desktop/MU5EES05/partie_1/lab3
+  576  ls sardar/
+  577  bc -l
+  578  clear
+  579  bc -l 
+  580  clear 
+  581  shut down 
+  582  reboot 
+  583  clear
+  584  pwd
+  585  chmod
+  586  who
+  587  who --help
+  588  whoami
+  589  who tty2
+  590  who 
+  591  tty2
+  592  groups user
+  593  group user
+  594  groups user
+  595  groups khaled
+  596  groups tty2
+  597  clear
+  598  finger khaled
+  599  finger user
+  600  apt install finger
+  601  sudo apt install finger 
+  602  clear
+  603  finger khaled
+  604  su -hulk
+  605  whoami
+  606  su -khaled
+  607  su - khaled
+  608  cd Desktop/MU5EES05/partie_1/lab4
+  609  ls
+  610  ln --help
+  611  cd partie_1/lab4
+  612  ls
+  613  ln sardar/sardar1.txt intro 
+  614  ls 
+  615  ls -lrt
+  616  ls -lrt intro 
+  617  ln --help
+  618  ls -l 
+  619  cat intro 
+  620  clear 
+  621  ls -lrt
+  622  ln -s ./sardar/sardar1.txt toto
+  623  ls -lrt
+  624  cat toto
+  625  ls
+  626  ls -lrt
+  627  cat intro
+  628  ls
+  629  rm intro 
+  630  ls
+  631  ls -lrt toto 
+  632  clear
+  633  ls 
+  634  ls -a
+  635  rm toto
+  636  ls
+  637  ln -s sardar/ toto
+  638  ls
+  639  ls toto
+  640  ls -lrt 
+  641  rm sardar/sardar2.txt 
+  642  ls toto
+  643  clear
+  644  toto
+  645  cd toto
+  646  ls
+  647  cd ..
+  648  ls _lrt sardar/sardar1.txt 
+  649  ls -lrt sardar/sardar1.txt 
+  650  whoami
+  651  chmod u-w sardar/sardar1.txt 
+  652  ls -lrt sardar/sardar1.txt 
+  653  nano sardar/sardar1.txt 
+  654  chmod u+w sardar/sardar1.txt 
+  655  ls -lrt sardar/sardar1.txt 
+  656  nano sardar/sardar1.txt 
+  657  clear
+  658  bzip2 ~/Desktop/MU5EES05/partie_1/lab4 
+  659  tar jcvf lab4.tar.bz2 ~/Desktop/MU5EES05/partie_1/lab4/
+  660  ls
+  661  ls lab4.tar.bz2 
+  662  ls -a lab4.tar.bz2 
+  663  tar jtvf lab4.tar.bz2 
+  664  clear
+  665  ls
+  666  cd 
+  667  mv Desktop/MU5EES05/partie_1/lab4 Desktop/MU5EES05/partie_2/
+  668  ls Desktop/MU5EES05/partie_2
+  669  ls Desktop/MU5EES05/partie_1
+  670  cd Music/
+  671  ls
+  672  rm -rf MU5EES05_lab_4/
+  673  ls
+  674  git clone 
+  675  https://github.com/khachicha/MU5EES05_lab_5.git
+  676  git clone https://github.com/khachicha/MU5EES05_lab_5.git
+  677  ls
+  678  cd MU5EES05_lab_5/
+  679  ls -a
+  680  rm -rf .git/
+  681  ls
+  682  ls -a
+  683  clear
+  684  cd 
+  685  cd Desktop/MU5EES05/partie_2/
+  686  mkdir lab5
+  687  ls
+  688  cd lab5
+  689  cd
+  690  cd Desktop/MU5EES05/partie_2/
+  691  cd lab5
+  692  cd ..
+  693  ls
+  694  mv ~/Music/MU5EES05_lab_5/ lab5/ 
+  695  ls lab5 
+  696  ls lab5/MU5EES05_lab_5/
+  697  ls
+  698  cd lab5
+  699  ls
+  700  mv MU5EES05_lab_5 ../lab5.1
+  701  ls
+  702  cd ..
+  703  ls
+  704  rm -rf lab5
+  705  ls
+  706  mv lab5.1 lab5
+  707  ls
+  708  cd lab5
+  709  ls
+  710  history
+  711  clear
+  712  nano history 
+  713  ls
+  714  history 
+  715  nano history
+  716  nano & history 
+  717  history & nano 
+  718  clear
+  719  history
+  720  sudp
+  721  sufo apt get update4
+  722  sufo apt get update
+  723  sufo apt-get update
+  724  sudo apt-get update
+  725  sudo apt check update
+  726  sudo apt- check update
+  727  sudo apt-check update
+  728  check 
+  729  clear
+  730  sudo apt-get upgrade
+  731  sudo apt install update
+  732  sudo apt install upgrade
+  733  sudo apt-get upgrade
+  734  clear
+  735  exit
+  736  history
+  737  history --help
+  738  history -w --help
+  739  ls
+  740  cd Public/
+  741  ls
+  742  history -w history
+  743  ls
+  744  cat history 
+  745  cd
+  746  grep history
+  747  time --help
+  748  time
+  749  grep history -time
+  750  shutdown
+  751  shutdown -c
+  752  shutdown -h
+  753  shutdown -h now
+  754  sudo apt-get update
+  755  sudo apt-get upgrade
+  756  clear
+  757  Mozila --help
+  758  FireFox
+  759  clear
+  760  exit
+  761  top
+  762  exit
+  763  wine 
+  764  sudo apt install wine
+  765  ls
+  766  cd Documents/
+  767  ls
+  768  mkdir General
+  769  ls
+  770  cd General/
+  771  sudo apt install wine
+  772  wine 
+  773  system 
+  774  version
+  775  python 
+  776  python --version
+  777  python3 --version
+  778  gcc --version
+  779  exit
+  780  cd Desktop/MU5EES05/partie_2/lab4
+  781  ls
+  782  nan Rapport_lab4.txt
+  783  nano Rapport_lab4.txt
+  784  ls
+  785  cd
+  786  cd Music/
+  787  ls
+  788  cd ..
+  789  exxit
+  790  exit
+  791  ls -lrt
+  792  size Videos/
+  793  size -dir Videos/
+  794  ls 
+  795  ls -lrt
+  796  clear
+  797  cd Music/
+  798  ls
+  799  size 3xtcX3bK-lab4_basic_bash_command.pdf 
+  800  size -t 3xtcX3bK-lab4_basic_bash_command.pdf 
+  801  clear
+  802  cd ..
+  803  cd Downloads/
+  804  ls
+  805  size Poly-TSA_2019-2020.pdf 
+  806  ls -lrt
+  807  ls -S
+  808  ls -Sr
+  809  ls -St
+  810  ls -l
+  811  ls -lS
+  812  clear
+  813  ls -lSr
+  814  exit
+  815  cd Desktop/MU5EES05/partie_2/lab4
+  816  ls
+  817  cat cr_lab4.md 
+  818  rm Rapport_lab4.txt 
+  819  ls
+  820  nano Compte_rendu_lab4
+  821  ls
+  822  exit
+  823  cd partie_2/lab5/
+  824  ls
+  825  ls -a
+  826  ls
+  827  clear
+  828  history
+  829  ls
+  830  history > history.txt

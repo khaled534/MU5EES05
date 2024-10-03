@@ -1,0 +1,12 @@
+1- on utilise > pour diriger la sortie vers un fichiers
+2- j'ai utiliser cat fichier1 fichier2 fichier3 > sardar_power.txt pour cree le fichiers sardar qui regroupe le tt
+3- wc affiche le nombre de lines mots carac dans un fichiers 
+4- j'utilise grep -i pour chercher le mots ou qlq car
+5- grep -i singh sardar/* pour afficher les lignes 
+6- grep -i singh sardar/* | wc -l
+7- grep -i singh sardar/* | grep -i santa | wc -l  
+8- grep -i singh sardar/* | grep -i santa | grep -vi banta | wc -l 
+9- grep *.txt
+10- diff noyau.v1 noyau.v2
+11- diff noyau.v1 noyau.v2 > update.patch apres patch noyau.v1 < update.patch 
+
