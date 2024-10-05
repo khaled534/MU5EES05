@@ -15,5 +15,5 @@ max="$1"
     done
     
     for ((i=1; i<=max; i++)); do
-        eog "les_images_jusqua_$max/image_$i.jpg"
+        feh "les_images_jusqua_$max/image_$i.jpg" & sleep 2; kill $!
     done
