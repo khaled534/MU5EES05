@@ -13,3 +13,7 @@ max="$1"
         wget -q -O "les_images_jusqua_$max/image_$i.jpg" "$image"
         rm "$i.html" 
     done
+    
+    for ((i=1; i<=max; i++)); do
+        eog "les_images_jusqua_$max/image_$i.jpg"
+    done
