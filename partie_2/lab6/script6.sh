@@ -1,5 +1,15 @@
 #!/bin/bash
 max="$1"
-    wget -o  $max.html http://xkcd.com/$max
-    cat "$max.html" 
-    #echo " $(grep -i hotlink $i | grep -o https.*jpg ) "
+    
+    if [ -d "les_images_jusqua_"* ]; then
+        rm -r les_images_jusqua_*
+    fi
+    
+    mkdir "les_images_jusqua_$max"
+
+    for ((i=1; i<=max; i++)); do
+        wget -q -O  "$i.html" http://xkcd.com/$i
+        image=$(grep -i hotlink "$i.html" | grep -o 'https.*jpg"' | grep -o 'https.*jpg') 
+        wget -q -O "les_images_jusqua_$max/image_$i.jpg" "$image"
+        rm "$i.html" 
+    done
