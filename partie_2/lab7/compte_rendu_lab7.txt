@@ -1,0 +1,19 @@
+1- en utilisant printenv | grep -i HOME 
+    on trouve que la variable Home contient 
+    HOME=/home/khaled
+2- en utilisant echo $PATH 
+    on affiche le contenu de PATH :
+    /usr/local/sbin:/usr/local/bin:/usr/sbin:
+    /usr/bin:/sbin:/bin:/usr/games:/usr/local/games:
+    /snap/bin:/snap/bin
+    ca contient l'ordre de recherche de commandes 
+    pour le shell cette variable est obligatoire 
+    afin de retrouver les commandes shell et pouvoir 
+    les utiliser autrement le terminal ne pourra 
+    fonctionner correctement
+4- we use sudo pour pouvoir le copier car opt est 
+    owned par root user (super)
+5- on utilise export PATH=$PATH:/opt
+6- le script ne se lance pas car export command
+    est temporaire donc il ne garde pas le chemin vers
+    notre script

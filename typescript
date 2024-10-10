@@ -1,0 +1,301 @@
+Script started on 2024-10-10 10:06:36+02:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="66" LINES="14"]
+[?2004h]0;khaled@khaled-Inspiron-3542: ~/Desktop/MU5EES05[01;32mkhaled@khaled-Inspiron-3542[00m:[01;34m~/Desktop/MU5EES05[00m$ exit[K[K[K[Kscrupt[K[K[K
+screendump    scriptlive    script.sh     
+script        scriptreplay  
+]0;khaled@khaled-Inspiron-3542: ~/Desktop/MU5EES05[01;32mkhaled@khaled-Inspiron-3542[00m:[01;34m~/Desktop/MU5EES05[00m$ script.sh 
+[?2004lUID          PID    PPID  C STIME TTY          TIME CMD
+root           1       0  0 08:51 ?        00:00:04 /sbin/init spl
+root           2       0  0 08:51 ?        00:00:00 [kthreadd]
+root           3       2  0 08:51 ?        00:00:00 [pool_workqueu
+root           4       2  0 08:51 ?        00:00:00 [kworker/R-rcu
+root           5       2  0 08:51 ?        00:00:00 [kworker/R-rcu
+root           6       2  0 08:51 ?        00:00:00 [kworker/R-slu
+root           7       2  0 08:51 ?        00:00:00 [kworker/R-net
+root           9       2  0 08:51 ?        00:00:00 [kworker/0:0H-
+root          10       2  0 08:51 ?        00:00:01 [kworker/0:1-c
+root          12       2  0 08:51 ?        00:00:00 [kworker/R-mm_
+root          13       2  0 08:51 ?        00:00:00 [rcu_tasks_kth
+root          14       2  0 08:51 ?        00:00:00 [rcu_tasks_rud
+root          15       2  0 08:51 ?        00:00:00 [rcu_tasks_tra
+root          16       2  0 08:51 ?        00:00:00 [ksoftirqd/0]
+root          17       2  0 08:51 ?        00:00:03 [rcu_preempt]
+root          18       2  0 08:51 ?        00:00:00 [migration/0]
+root          19       2  0 08:51 ?        00:00:00 [idle_inject/0
+root          20       2  0 08:51 ?        00:00:00 [cpuhp/0]
+root          21       2  0 08:51 ?        00:00:00 [cpuhp/1]
+root          22       2  0 08:51 ?        00:00:00 [idle_inject/1
+root          23       2  0 08:51 ?        00:00:00 [migration/1]
+root          24       2  0 08:51 ?        00:00:00 [ksoftirqd/1]
+root          26       2  0 08:51 ?        00:00:00 [kworker/1:0H-
+root          27       2  0 08:51 ?        00:00:00 [cpuhp/2]
+root          28       2  0 08:51 ?        00:00:00 [idle_inject/2
+root          29       2  0 08:51 ?        00:00:00 [migration/2]
+root          30       2  0 08:51 ?        00:00:00 [ksoftirqd/2]
+root          33       2  0 08:51 ?        00:00:00 [cpuhp/3]
+root          34       2  0 08:51 ?        00:00:00 [idle_inject/3
+root          35       2  0 08:51 ?        00:00:00 [migration/3]
+root          36       2  0 08:51 ?        00:00:00 [ksoftirqd/3]
+root          38       2  0 08:51 ?        00:00:00 [kworker/3:0H-
+root          39       2  0 08:51 ?        00:00:00 [kdevtmpfs]
+root          40       2  0 08:51 ?        00:00:00 [kworker/R-ine
+root          42       2  0 08:51 ?        00:00:00 [kauditd]
+root          43       2  0 08:51 ?        00:00:00 [khungtaskd]
+root          44       2  0 08:51 ?        00:00:00 [oom_reaper]
+root          46       2  0 08:51 ?        00:00:00 [kworker/R-wri
+root          47       2  0 08:51 ?        00:00:01 [kcompactd0]
+root          48       2  0 08:51 ?        00:00:00 [ksmd]
+root          50       2  0 08:51 ?        00:00:00 [khugepaged]
+root          51       2  0 08:51 ?        00:00:00 [kworker/R-kin
+root          52       2  0 08:51 ?        00:00:00 [kworker/R-kbl
+root          53       2  0 08:51 ?        00:00:00 [kworker/R-blk
+root          54       2  0 08:51 ?        00:00:00 [irq/9-acpi]
+root          56       2  0 08:51 ?        00:00:01 [kworker/2:1-e
+root          58       2  0 08:51 ?        00:00:00 [kworker/R-tpm
+root          59       2  0 08:51 ?        00:00:00 [kworker/R-ata
+root          60       2  0 08:51 ?        00:00:00 [kworker/R-md]
+root          61       2  0 08:51 ?        00:00:00 [kworker/R-md_
+root          62       2  0 08:51 ?        00:00:00 [kworker/R-eda
+root          63       2  0 08:51 ?        00:00:00 [kworker/R-dev
+root          64       2  0 08:51 ?        00:00:00 [watchdogd]
+root          65       2  0 08:51 ?        00:00:00 [kworker/0:1H-
+root          66       2  0 08:51 ?        00:00:02 [kswapd0]
+root          67       2  0 08:51 ?        00:00:00 [ecryptfs-kthr
+root          68       2  0 08:51 ?        00:00:00 [kworker/R-kth
+root          69       2  0 08:51 ?        00:00:00 [kworker/R-acp
+root          71       2  0 08:51 ?        00:00:00 [kworker/R-mld
+root          72       2  0 08:51 ?        00:00:00 [kworker/1:1H-
+root          73       2  0 08:51 ?        00:00:00 [kworker/R-ipv
+root          83       2  0 08:51 ?        00:00:00 [kworker/R-kst
+root          98       2  0 08:51 ?        00:00:00 [kworker/R-cha
+root         120       2  0 08:51 ?        00:00:00 [kworker/3:1H-
+root         138       2  0 08:51 ?        00:00:01 [kworker/2:1H-
+root         148       2  0 08:51 ?        00:00:04 [irq/39-DLL065
+root         149       2  0 08:51 ?        00:00:00 [scsi_eh_0]
+root         150       2  0 08:51 ?        00:00:00 [kworker/R-scs
+root         151       2  0 08:51 ?        00:00:00 [scsi_eh_1]
+root         152       2  0 08:51 ?        00:00:00 [kworker/R-scs
+root         176       2  0 08:51 ?        00:00:00 [kworker/R-rmi
+root         177       2  0 08:51 ?        00:00:01 [irq/46-i2c_hi
+root         198       2  0 08:51 ?        00:00:00 [jbd2/sda3-8]
+root         199       2  0 08:51 ?        00:00:00 [kworker/R-ext
+root         238       1  0 08:51 ?        00:00:01 /lib/systemd/s
+root         263       2  0 08:51 ?        00:00:01 [kworker/1:3-e
+root         305       1  0 08:51 ?        00:00:02 /lib/systemd/s
+root         343       2  0 08:51 ?        00:00:00 [irq/52-mei_me
+root         361       2  0 08:51 ?        00:00:00 [kworker/R-cfg
+root         396       2  0 08:51 ?        00:00:00 [kworker/R-cry
+root         397       2  0 08:51 ?        00:00:00 [wl_event_hand
+root         488       2  0 08:51 ?        00:00:00 [kworker/R-kme
+root         491       2  0 08:51 ?        00:00:00 [kworker/R-ttm
+root         492       2  0 08:51 ?        00:00:00 [card1-crtc0]
+root         494       2  0 08:51 ?        00:00:00 [card1-crtc1]
+root         495       2  0 08:51 ?        00:00:00 [card1-crtc2]
+systemd+     621       1  0 08:51 ?        00:00:07 /lib/systemd/s
+systemd+     622       1  0 08:51 ?        00:00:00 /lib/systemd/s
+systemd+     623       1  0 08:51 ?        00:00:00 /lib/systemd/s
+root         670       1  0 08:51 ?        00:00:00 /usr/libexec/a
+root         671       1  0 08:51 ?        00:00:01 /usr/sbin/acpi
+avahi        674       1  0 08:51 ?        00:00:00 avahi-daemon: 
+root         675       1  0 08:51 ?        00:00:00 /usr/lib/bluet
+root         676       1  0 08:51 ?        00:00:00 /usr/sbin/cron
+message+     677       1  0 08:51 ?        00:00:02 @dbus-daemon -
+root         678       1  0 08:51 ?        00:00:02 /usr/sbin/Netw
+root         697       1  0 08:51 ?        00:00:00 /usr/sbin/irqb
+root         698       1  0 08:51 ?        00:00:00 /usr/bin/pytho
+root         699       1  0 08:51 ?        00:00:03 /usr/libexec/p
+root         700       1  0 08:51 ?        00:00:00 /usr/libexec/p
+syslog       701       1  0 08:51 ?        00:00:00 /usr/sbin/rsys
+root         703       1  0 08:51 ?        00:00:14 /usr/lib/snapd
+root         704       1  0 08:51 ?        00:00:00 /usr/libexec/s
+root         705       1  0 08:51 ?        00:00:00 /lib/systemd/s
+root         706       1  0 08:51 ?        00:00:00 /usr/sbin/ther
+root         707       1  0 08:51 ?        00:00:01 /usr/libexec/u
+root         708       1  0 08:51 ?        00:00:00 /sbin/wpa_supp
+avahi        734     674  0 08:51 ?        00:00:00 avahi-daemon: 
+root         824       1  0 08:51 ?        00:00:00 /usr/sbin/Mode
+root         836       1  0 08:51 ?        00:00:00 /usr/sbin/cups
+root         839       1  0 08:51 ?        00:00:00 /usr/bin/pytho
+root         860       2  0 08:51 ?        00:00:00 [kworker/2:2H-
+root         863       1  0 08:51 ?        00:00:00 /usr/sbin/gdm3
+rtkit        934       1  0 08:52 ?        00:00:00 /usr/libexec/r
+kernoops     967       1  0 08:52 ?        00:00:00 /usr/sbin/kern
+kernoops     969       1  0 08:52 ?        00:00:00 /usr/sbin/kern
+root        1070       1  0 08:52 ?        00:00:00 /usr/libexec/u
+geoclue     1076       1  0 08:52 ?        00:00:01 /usr/libexec/g
+root        1077       1  0 08:52 ?        00:00:13 /usr/libexec/p
+root        1339     863  0 08:52 ?        00:00:00 gdm-session-wo
+khaled      1369       1  0 08:53 ?        00:00:01 /lib/systemd/s
+khaled      1370    1369  0 08:53 ?        00:00:00 (sd-pam)
+khaled      1376    1369  0 08:53 ?        00:00:00 /usr/bin/pipew
+khaled      1377    1369  0 08:53 ?        00:00:00 /usr/bin/pipew
+khaled      1378    1369  0 08:53 ?        00:00:00 /usr/bin/pulse
+khaled      1379    1369  0 08:53 ?        00:00:00 /snap/snapd-de
+khaled      1394    1369  0 08:53 ?        00:00:02 /usr/bin/dbus-
+khaled      1395    1369  0 08:53 ?        00:00:00 /usr/libexec/x
+khaled      1399    1369  0 08:53 ?        00:00:00 /usr/libexec/x
+root        1405    1395  0 08:53 ?        00:00:00 fusermount3 -o
+khaled      1418       1  0 08:53 ?        00:00:00 /usr/bin/gnome
+colord      1440       1  0 08:53 ?        00:00:00 /usr/libexec/c
+khaled      1450    1339  0 08:53 tty2     00:00:00 /usr/libexec/g
+khaled      1453    1450  0 08:53 tty2     00:00:00 /usr/libexec/g
+khaled      1527    1369  0 08:53 ?        00:00:00 /usr/libexec/g
+khaled      1537    1369  0 08:53 ?        00:00:00 /usr/libexec/g
+khaled      1542    1369  0 08:53 ?        00:00:00 /usr/libexec/g
+khaled      1552    1369  0 08:53 ?        00:00:00 /usr/libexec/g
+khaled      1567    1552  0 08:53 ?        00:00:00 /usr/libexec/a
+khaled      1575    1369  4 08:53 ?        00:03:36 /usr/bin/gnome
+khaled      1576    1567  0 08:53 ?        00:00:00 /usr/bin/dbus-
+khaled      1603    1369  0 08:53 ?        00:00:00 /usr/libexec/g
+khaled      1610    1369  0 08:53 ?        00:00:00 /usr/libexec/g
+khaled      1644    1369  0 08:53 ?        00:00:00 /usr/libexec/g
+khaled      1653    1369  0 08:53 ?        00:00:00 /usr/libexec/e
+khaled      1654    1369  0 08:53 ?        00:00:00 /usr/libexec/g
+khaled      1658    1369  0 08:53 ?        00:00:00 /usr/libexec/g
+khaled      1663    1369  0 08:53 ?        00:00:00 /usr/libexec/g
+khaled      1670    1369  0 08:53 ?        00:00:00 /usr/libexec/g
+khaled      1680    1369  0 08:53 ?        00:00:00 /usr/libexec/g
+khaled      1686    1369  0 08:53 ?        00:00:00 /usr/libexec/d
+khaled      1690    1369  0 08:53 ?        00:00:00 /usr/libexec/g
+khaled      1702    1537  0 08:53 ?        00:00:00 /usr/libexec/g
+khaled      1704    1369  0 08:53 ?        00:00:00 /usr/libexec/e
+khaled      1712    1379  0 08:53 ?        00:00:00 /snap/snapd-de
+khaled      1724    1369  0 08:53 ?        00:00:00 /usr/libexec/e
+khaled      1747    1369  0 08:53 ?        00:00:00 /usr/bin/gjs /
+khaled      1749    1369  0 08:53 ?        00:00:00 /usr/libexec/a
+khaled      1760    1369  0 08:53 ?        00:00:00 sh -c /usr/bin
+khaled      1761    1369  0 08:53 ?        00:00:00 /usr/libexec/g
+khaled      1764    1760  0 08:53 ?        00:00:09 /usr/bin/ibus-
+khaled      1765    1369  0 08:53 ?        00:00:00 /usr/libexec/g
+khaled      1766    1369  0 08:53 ?        00:00:00 /usr/libexec/g
+khaled      1769    1369  0 08:53 ?        00:00:00 /usr/libexec/g
+khaled      1771    1369  0 08:53 ?        00:00:00 /usr/libexec/g
+khaled      1773    1369  0 08:53 ?        00:00:00 /usr/libexec/g
+khaled      1775    1369  0 08:53 ?        00:00:00 /usr/libexec/g
+khaled      1780    1369  0 08:53 ?        00:00:00 /usr/libexec/g
+khaled      1782    1369  0 08:53 ?        00:00:00 /usr/libexec/g
+khaled      1784    1369  0 08:53 ?        00:00:00 /usr/libexec/g
+khaled      1787    1369  0 08:53 ?        00:00:00 /usr/libexec/g
+khaled      1794    1369  0 08:53 ?        00:00:00 /usr/libexec/g
+khaled      1801    1369  0 08:53 ?        00:00:00 /usr/libexec/g
+khaled      1805    1369  0 08:53 ?        00:00:00 /usr/libexec/g
+khaled      1833    1552  0 08:53 ?        00:00:00 /usr/libexec/e
+khaled      1835    1764  0 08:53 ?        00:00:00 /usr/libexec/i
+khaled      1836    1764  0 08:53 ?        00:00:03 /usr/libexec/i
+khaled      1849    1552  0 08:53 ?        00:00:00 /usr/libexec/g
+khaled      1861    1369  0 08:53 ?        00:00:00 /usr/libexec/g
+khaled      1892    1369  0 08:53 ?        00:00:00 /usr/libexec/i
+khaled      1909    1369  0 08:53 ?        00:00:07 /snap/snap-sto
+khaled      1940    1764  0 08:53 ?        00:00:01 /usr/libexec/i
+khaled      1987    1369  0 08:53 ?        00:00:01 /usr/libexec/t
+khaled      2019    1369  0 08:53 ?        00:00:00 /usr/bin/gjs /
+khaled      2060    1575  0 08:53 ?        00:00:04 gjs /usr/share
+khaled      2061    1369  0 08:53 ?        00:00:00 /usr/libexec/x
+khaled      2084    1369  0 08:53 ?        00:00:00 /usr/libexec/x
+khaled      2110    1369  0 08:53 ?        00:00:00 /usr/libexec/x
+root        2175       1  0 08:53 ?        00:00:03 /usr/libexec/f
+khaled      2851    1552  0 08:54 ?        00:00:00 update-notifie
+khaled      3051    1575  0 08:54 ?        00:00:25 /usr/bin/Xwayl
+khaled      3058    1369  0 08:54 ?        00:00:00 /usr/libexec/g
+khaled      3086    1369  0 08:55 ?        00:00:00 /usr/libexec/i
+root        3418       1  0 08:55 ?        00:00:00 /usr/sbin/cups
+khaled      3759    1369  0 08:56 ?        00:00:05 /usr/bin/nauti
+khaled      3865    1537  0 08:57 ?        00:00:00 /usr/libexec/g
+khaled      3884    1537  0 08:57 ?        00:00:00 /usr/libexec/g
+root        4252       2  0 08:59 ?        00:00:02 [kworker/3:0-m
+khaled      4340    1369  0 09:01 ?        00:00:17 evince /home/k
+khaled      4349    1369  0 09:01 ?        00:00:00 /usr/libexec/e
+khaled      4351    1369  0 09:01 ?        00:00:17 /usr/bin/evinc
+khaled      5973    1575  4 09:16 ?        00:02:27 /snap/firefox/
+khaled      6122    5973  0 09:16 ?        00:00:00 /snap/firefox/
+khaled      6137    5973  0 09:16 ?        00:00:04 /snap/firefox/
+khaled      6168    5973  6 09:16 ?        00:03:16 /snap/firefox/
+khaled      6171    5973  0 09:16 ?        00:00:01 /snap/firefox/
+khaled      6175    5973  0 09:16 ?        00:00:01 /snap/firefox/
+khaled      6229    1369  0 09:16 ?        00:00:00 /usr/bin/snap 
+khaled      6309    5973  0 09:16 ?        00:00:02 /snap/firefox/
+khaled      6386    5973  0 09:16 ?        00:00:00 /snap/firefox/
+khaled      6512    5973  0 09:16 ?        00:00:01 /snap/firefox/
+khaled      6592    5973  0 09:17 ?        00:00:00 /snap/firefox/
+root        7263       2  0 09:23 ?        00:00:00 [kworker/u8:4-
+khaled      7486    1575  0 09:26 ?        00:00:05 /opt/Pumble/pu
+khaled      7491    7486  0 09:26 ?        00:00:00 /opt/Pumble/pu
+khaled      7492    7486  0 09:26 ?        00:00:00 /opt/Pumble/pu
+khaled      7494    7492  0 09:26 ?        00:00:00 /opt/Pumble/pu
+khaled      7617    7491  0 09:26 ?        00:00:05 /opt/Pumble/pu
+khaled      7620    7486  0 09:26 ?        00:00:01 /opt/Pumble/pu
+khaled      7647    7494  0 09:26 ?        00:00:23 /opt/Pumble/pu
+khaled      7768    1369  1 09:29 ?        00:00:27 /snap/code/171
+khaled      7770    7768  0 09:29 ?        00:00:00 /snap/code/171
+khaled      7771    7768  0 09:29 ?        00:00:00 /snap/code/171
+khaled      7789    1369  0 09:29 ?        00:00:00 /snap/code/171
+khaled      7813    7768  0 09:29 ?        00:00:00 /snap/code/171
+khaled      7828    7771  7 09:29 ?        00:02:38 /snap/code/171
+khaled      7867    7768  1 09:29 ?        00:00:29 /snap/code/171
+khaled      7885    7768  0 09:29 ?        00:00:19 /snap/code/171
+khaled      7901    7768  0 09:29 ?        00:00:09 /snap/code/171
+khaled      7910    7768  0 09:29 ?        00:00:09 /snap/code/171
+khaled      7911    7768  0 09:29 ?        00:00:02 /snap/code/171
+root        8783       2  0 09:34 ?        00:00:00 [kworker/1:1]
+root       10304       2  0 09:50 ?        00:00:00 [kworker/u8:0-
+root       10383       2  0 09:52 ?        00:00:00 [kworker/u9:2-
+root       10667       2  0 09:53 ?        00:00:00 [kworker/3:1-i
+root       10670       2  0 09:53 ?        00:00:00 [kworker/0:0-e
+root       11100       2  0 09:57 ?        00:00:00 [kworker/u8:2-
+root       11237       2  0 09:59 ?        00:00:00 [kworker/u9:0-
+root       11349       2  0 10:00 ?        00:00:00 [kworker/2:2]
+khaled     11747    7885  0 10:04 pts/0    00:00:00 /usr/bin/bash 
+khaled     12044   11747  0 10:06 pts/0    00:00:00 script
+khaled     12045   12044  0 10:06 pts/1    00:00:00 bash -i
+khaled     12152   12045  0 10:06 pts/1    00:00:00 /bin/bash /opt
+khaled     12153   12152  0 10:06 pts/1    00:00:00 ps -ef
+[?2004h]0;khaled@khaled-Inspiron-3542: ~/Desktop/MU5EES05[01;32mkhaled@khaled-Inspiron-3542[00m:[01;34m~/Desktop/MU5EES05[00m$ clear
+[?2004l[H[2J[3J[?2004h]0;khaled@khaled-Inspiron-3542: ~/Desktop/MU5EES05[01;32mkhaled@khaled-Inspiron-3542[00m:[01;34m~/Desktop/MU5EES05[00m$ l
+Display all 114 possibilities? (y or n)
+l                            logname
+l2ping                       logout
+l2test                       logrotate
+la                           logsave
+laptop-detect                loimpress
+last                         lomath
+lastb                        look
+lastlog                      losetup
+lavadecode                   loweb
+lcf                          lowntfs-3g
+ld                           lowriter
+ldattach                     lp
+ld.bfd                       lpadmin
+--More--[Kldconfig                     lpc
+--More--[Kldconfig.real                lpinfo
+--More--[Kldd                          lpmove
+--More--[Kld.gold                      lpoptions
+--More--[Kless                         lpq
+--More--[Klessecho                     lpr
+--More--[Klessfile                     lprm
+--More--[Klesskey                      lp_solve
+--More--[Klesspipe                     lpstat
+--More--[Klet                          ls
+--More--[Klexgrog                      lsattr
+--More--[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C^C[?2004l[?2004h[?2004l
+[?2004h]0;khaled@khaled-Inspiron-3542: ~/Desktop/MU5EES05[01;32mkhaled@khaled-Inspiron-3542[00m:[01;34m~/Desktop/MU5EES05[00m$ ls[K[Kle
+less      lessfile  lesspipe  lexgrog   
+lessecho  lesskey   let       
+]0;khaled@khaled-Inspiron-3542: ~/Desktop/MU5EES05[01;32mkhaled@khaled-Inspiron-3542[00m:[01;34m~/Desktop/MU5EES05[00m$ le[K[Kclear
+[?2004l[H[2J[3J[?2004h]0;khaled@khaled-Inspiron-3542: ~/Desktop/MU5EES05[01;32mkhaled@khaled-Inspiron-3542[00m:[01;34m~/Desktop/MU5EES05[00m$ ls "$PATH"
+[?2004lls: cannot access '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin:/opt/': No such file or directory
+[?2004h]0;khaled@khaled-Inspiron-3542: ~/Desktop/MU5EES05[01;32mkhaled@khaled-Inspiron-3542[00m:[01;34m~/Desktop/MU5EES05[00m$ ls "$PATH"[1P"[1P"[1P"[1P"[1P"[K[C[K$PATH
+[?2004lls: cannot access '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin:/opt/': No such file or directory
+[?2004h]0;khaled@khaled-Inspiron-3542: ~/Desktop/MU5EES05[01;32mkhaled@khaled-Inspiron-3542[00m:[01;34m~/Desktop/MU5EES05[00m$ cd PATH
+[?2004lbash: cd: PATH: No such file or directory
+[?2004h]0;khaled@khaled-Inspiron-3542: ~/Desktop/MU5EES05[01;32mkhaled@khaled-Inspiron-3542[00m:[01;34m~/Desktop/MU5EES05[00m$ cd PATH$PATH
+[?2004lbash: cd: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin:/opt/: No such file or directory
+[?2004h]0;khaled@khaled-Inspiron-3542: ~/Desktop/MU5EES05[01;32mkhaled@khaled-Inspiron-3542[00m:[01;34m~/Desktop/MU5EES05[00m$ clear7[K
+[?2004l[H[2J[3J[?2004h]0;khaled@khaled-Inspiron-3542: ~/Desktop/MU5EES05[01;32mkhaled@khaled-Inspiron-3542[00m:[01;34m~/Desktop/MU5EES05[00m$ find init.d
+[?2004lfind: ‘init.d’: No such file or directory
+[?2004h]0;khaled@khaled-Inspiron-3542: ~/Desktop/MU5EES05[01;32mkhaled@khaled-Inspiron-3542[00m:[01;34m~/Desktop/MU5EES05[00m$ cd
+[?2004l[?2004h]0;khaled@khaled-Inspiron-3542: ~[01;32mkhaled@khaled-Inspiron-3542[00m:[01;34m~[00m$ find init.d
+[?2004lfind: ‘init.d’: No such file or directory
+[?2004h]0;khaled@khaled-Inspiron-3542: ~[01;32mkhaled@khaled-Inspiron-3542[00m:[01;34m~[00m$ nano ~/.bashe[Krc 
+[?2004l[?2004h[?1049h[22;0;0t[1;14r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[12;27H(B[0;7m[ Reading... ](B[m[12;25H(B[0;7m[ Read 117 lines ](B[m[H(B[0;7m  GNU nano 6.2           /home/khaled/.bashrc                     [1;65H(B[m[13d(B[0;7m^G(B[m Help[14G(B[0;7m^O(B[m Write Out (B[0;7m^W(B[m Where Is  (B[0;7m^K(B[m Cut[53G(B[0;7m^T(B[m Execute[14d(B[0;7m^X(B[m Exit[14G(B[0;7m^R(B[m Read File (B[0;7m^\(B[m Replace   (B[0;7m^U(B[m Paste     (B[0;7m^J(B[m Justify[2d[36m# ~/.bashrc: executed by bash(1) for non-login shells.[3d# see /usr/share/doc/bash/examples/startup-files (in the package [39m(B[0;7m>[4;1H(B[0m[36m# for examples[6d# If not running interactively, don't do anything[7d[32mcase[39m(B[m (B[0;1m[31m$-[39m(B[m [32min[8;5H[39m(B[m*i*[32m)[39m(B[m [32m;;[9;7H[39m(B[m*[32m)[39m(B[m [32mreturn;;[10desac[2d[39m(B[m[?12l[?25h[?25l[32mesac[39m(B[m[K[3d[K[4;3H[36mdon't put duplicate lines or lines starting with space in the h[39m(B[0;7m>[5;1H(B[0m[36m# See bash(1) for more options[6d[39m(B[mHISTCONTROL[32m=[39m(B[mignoreboth[K[7d[K[8d[36m# append to the history file, don't overwrite it[9d[39m(B[mshopt(B[0;1m[35m -s[39m(B[m histappend[10d[K[11d[36m# for setting history length see HISTSIZE and HISTFILESIZE in bas[39m(B[0;7m>[2;1H(B[m[?12l[?25h[?25l[K[3d[36m# for setting history length see HISTSIZE and HISTFILESIZE in bas[39m(B[0;7m>[4;1H(B[mHISTSIZE[32m=[39m(B[m1000[K[5dHISTFILESIZE[32m=[39m(B[m2000[K[6d[K[7d[36m# check the window size after each command and, if necessary,[8;3Hupdate the values of LINES and COLUMNS.[39m(B[m[K[9;10Hcheckwinsize[11;3H[36mIf set, the pattern (B[0;1m[33m"**"(B[0m[36m used in a pathname expansion context w[2d[39m(B[m[?12l[?25h[?25l[3;3H[36mIf set, the pattern (B[0;1m[33m"**"(B[0m[36m used in a pathname expansion context w[4d# match all files and zero or more directories and subdirectories.[5;1H#shopt -s globstar[7;3Hmake less more friendly for non-text input files, see lesspipe([39m(B[0;7m>[8;1H(B[0m[32m[(B[0;1m[35m -x[39m(B[m /usr/bin/lesspipe [32m][39m(B[m [32m&&[39m(B[m [32meval[39m(B[m (B[0;1m[33m"$(SHELL=/bin/sh lesspipe)"[9d[39m(B[m[K[10d[36m# set variable identifying the chroot you work in (used in the pr[39m(B[0;7m>[11;1H(B[0m[32mif[39m(B[m [32m[(B[0;1m[35m -z[39m(B[m (B[0;1m[33m"${debian_chroot:-}"[39m(B[m [32m][39m(B[m [32m&&[39m(B[m [32m[(B[0;1m[35m -r[39m(B[m /etc/debian_chroot [32m];[39m(B[m [32mthen[39m(B[m[K[2d[?12l[?25h[?25l[36m# set variable identifying the chroot you work in (used in the pr[39m(B[0;7m>[3;1H(B[0m[32mif[39m(B[m [32m[(B[0;1m[35m -z[39m(B[m (B[0;1m[33m"${debian_chroot:-}"[39m(B[m [32m][39m(B[m [32m&&[39m(B[m [32m[(B[0;1m[35m -r[39m(B[m /etc/debian_chroot [32m];[39m(B[m [32mthen[39m(B[m[K[4d    debian_chroot[32m=$((B[0;1m[34mcat[39m(B[m /etc/debian_chroot[32m)[39m(B[m[K[5d[32mfi[39m(B[m[K[7d[36mset a fancy prompt (non-color, unless we know we (B[0;1m[33m"want"(B[0m[36m color)[39m(B[m[K[8d[32mcase[39m(B[m (B[0;1m[33m"$TERM"[39m(B[m [32min[39m(B[m[K[9;5Hxterm-color[32m|[39m(B[m*-256color[32m)[39m(B[m color_prompt[32m=[39m(B[myes[32m;;[10desac[39m(B[m[K[11d[K[2d[?12l[?25h[?25l[32mesac[39m(B[m[K[3d[K[4d[36m# uncomment for a colored prompt, if the terminal has the capabil[39m(B[0;7m>[5;1H(B[0m[36m# off by default to not distract the user: the focus in a termina[39m(B[0;7m>[6;1H(B[0m[36m# should be on the output of commands, not on the prompt[7d#force_color_prompt=yes[39m(B[m[K[8d[K[9d[32mif[39m(B[m [32m[(B[0;1m[35m -n[39m(B[m (B[0;1m[33m"$force_color_prompt"[39m(B[m [32m];[39m(B[m [32mthen[39m(B[m[K[10d    [32mif[39m(B[m [32m[(B[0;1m[35m -x[39m(B[m /usr/bin/tput [32m][39m(B[m [32m&&[39m(B[m tput setaf 1 [32m>&[39m(B[m/dev/null[32m;[39m(B[m [32mthen[11;8H[36m[1K # We have color support; assume it's compliant with Ecma-[39m(B[0;7m>[2;1H(B[m[?12l[?25h[?25l    [32mif[39m(B[m [32m[(B[0;1m[35m -x[39m(B[m /usr/bin/tput [32m][39m(B[m [32m&&[39m(B[m tput setaf 1 [32m>&[39m(B[m/dev/null[32m;[39m(B[m [32mthen[3;8H[36m[1K # We have color support; assume it's compliant with Ecma-[39m(B[0;7m>[4;8H(B[0m[36m[1K # (ISO/IEC-6429). (Lack of such support is extremely rare[5;8H[1K # a case would tend to support setf rather than setaf.)[39m(B[m[K[6;8H[1K color_prompt[32m=[39m(B[myes[K[7d    [32melse[39m(B[m[K[8dcolor_prompt[32m=[9d[39m(B[m    [32mfi[39m(B[m[K[10d[32mfi[39m(B[m[K[11d[K[2d[?12l[?25h[?25l[32mfi[39m(B[m[K[3d[K[4d[32mif[39m(B[m [32m[[39m(B[m (B[0;1m[33m"$color_prompt"[39m(B[m [32m=[39m(B[m yes [32m];[39m(B[m [32mthen[39m(B[m[K[5d    PS1[32m=(B[0;1m[33m'${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[[39m(B[0;7m>[6;1H(B[0m[32melse[39m(B[m[K[7dPS1[32m=(B[0;1m[33m'${debian_chroot:+($debian_chroot)}\u@\h:\w\$ '[8d(B[0m[32mfi[39m(B[m[K[9d(B[0;1m[34munset[39m(B[m color_prompt force_color_prompt[10d[K[11d[36m# If this is an xterm set the title to user@host:dir[2d[39m(B[m[?12l[?25h[?25l[K[3d[36m# If this is an xterm set the title to user@host:dir[4d[32mcase[39m(B[m (B[0;1m[33m"$TERM"[39m(B[m [32min[39m(B[m[K[5dxterm*[32m|[39m(B[mrxvt*[32m)[39m(B[m[K[6d    PS1[32m=(B[0;1m[33m"\[\e]0;${debian_chroot:+($debian_chroot)}\u@\h: \w\a\]$P[39m(B[0;7m>[7;5H(B[0m[32m;;[39m(B[m[K[8d*[32m)[9d[39m(B[m    [32m;;[39m(B[m[K[10d[32mesac[11d[39m(B[m[K[2d[?12l[?25h[?25l[32mesac[3d[39m(B[m[K[4d[36m# enable color support of ls and also add handy aliases[5d[32mif[39m(B[m [32m[(B[0;1m[35m -x[39m(B[m /usr/bin/dircolors [32m];[39m(B[m [32mthen[6;5H[39m(B[mtest(B[0;1m[35m -r[39m(B[m ~/.dircolors [32m&&[39m(B[m [32meval[39m(B[m (B[0;1m[33m"$(dircolors -b ~/.dircolors)"[39m(B[m [32m|[7;5H[39m(B[malias ls[32m=(B[0;1m[33m'ls --color=auto'[8d[39m(B[m   [36m #alias dir=(B[0;1m[33m'dir --color=auto'[9;4H(B[0m[36m #alias vdir=(B[0;1m[33m'vdir --color=auto'[10d[39m(B[m[K[11;5Halias (B[0;1m[34mgrep(B[0m[32m=(B[0;1m[33m'grep --color=auto'[2d[39m(B[m[?12l[?25h[?25l[K[3;5Halias (B[0;1m[34mgrep(B[0m[32m=(B[0;1m[33m'grep --color=auto'[4d[39m(B[m    alias fgrep[32m=(B[0;1m[33m'fgrep --color=auto'[39m(B[m[K[5d    alias egrep[32m=(B[0;1m[33m'egrep --color=auto'[6d(B[0m[32mfi[39m(B[m[K[7d[K[8d[36m# colored GCC warnings and errors[9d#export GCC_COLORS=(B[0;1m[33m'error=01;31:warning=01;35:note=01;36:caret=01[39m(B[0;7m>[11;1H(B[0m[36m# some more ls aliases[39m(B[m[K[2d[?12l[?25h[?25l[3d[36m# some more ls aliases[39m(B[m[K[4dalias ll[32m=(B[0;1m[33m'ls -alF'[39m(B[m[K[5dalias la[32m=(B[0;1m[33m'ls -A'[39m(B[m[K[6dalias l[32m=(B[0;1m[33m'ls -CF'[8;3H(B[0m[36mAdd an (B[0;1m[33m"alert"(B[0m[36m alias for long running commands.  Use like so:[9d#   sleep 10; alert[39m(B[m[K[10dalias alert[32m=(B[0;1m[33m'notify-send --urgency=low -i "$([ $? = 0 ] && echo t[39m(B[0;7m>[11;1H(B[m[K[2d[?12l[?25h[?25lalias alert[32m=(B[0;1m[33m'notify-send --urgency=low -i "$([ $? = 0 ] && echo t[39m(B[0;7m>[3;1H(B[m[K[4d[36m# Alias definitions.[5d# You may want to put all your additions into a separate file like[6;1H# ~/.bash_aliases, instead of adding them here directly.[7d# See /usr/share/doc/bash-doc/examples in the bash-doc package.[8d[39m(B[m[K[9d[32mif[39m(B[m [32m[(B[0;1m[35m -f[39m(B[m ~/.bash_aliases [32m];[39m(B[m [32mthen[10d[39m(B[m    . ~/.bash_aliases[K[11d[32mfi[2d[39m(B[m[?12l[?25h[?25l    . ~/.bash_aliases[K[3d[32mfi[4d[39m(B[m[K[5;3H[36menable programmable completion features (you don't need to enab[39m(B[0;7m>[6;3H(B[0m[36mthis, if it's already enabled in /etc/bash.bashrc and /etc/prof[39m(B[0;7m>[7;3H(B[0m[36msources /etc/bash.bashrc).[39m(B[m[K[8d[32mif[39m(B[m [32m![39m(B[m shopt -oq posix[32m;[39m(B[m [32mthen[9d[39m(B[m  [32mif[39m(B[m [32m[(B[0;1m[35m -f[39m(B[m /usr/share/bash-completion/bash_completion [32m];[39m(B[m [32mthen[10;7H[39m(B[m/usr/share/bash-completion/bash_completion[11d  [32melif[39m(B[m [32m[(B[0;1m[35m -f[39m(B[m /etc/bash_completion [32m];[39m(B[m [32mthen[2d[39m(B[m[?12l[?25h[?25l7[3;8r8[3d[3T[1;14r[2;7H/usr/share/bash-completion/bash_completion[3;3H[32melif[39m(B[m [32m[(B[0;1m[35m -f[39m(B[m /etc/bash_completion [32m];[39m(B[m [32mthen[4;5H[39m(B[m. /etc/bash_completion[5;3H[32mfi[8d[39m(B[m[K[9d[K[10d[K[11d[K[2d[?12l[?25h[?25l[7d[?12l[?25h[?25l[?12l[?25h[?25l[12d[K[1;47H(B[0;7m*[65G(B[m[7d(B[0;1m[34mecho[39m(B[m (B[0;1m[33m"Le fichier .bashrc a été exécuté"[8d[39m(B[m[?12l[?25h[?25l[12;27H(B[0;7m[ Writing... ](B[m[1;47H(B[0;7m [65G(B[m[12;24H(B[0;7m[ Wrote 118 lines ](B[m[?12l[?25h[8d[?25l[12d[J[14d[?12l[?25h[14;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;khaled@khaled-Inspiron-3542: ~[01;32mkhaled@khaled-Inspiron-3542[00m:[01;34m~[00m$ exit
+[?2004lexit
+
+Script done on 2024-10-10 10:19:12+02:00 [COMMAND_EXIT_CODE="0"]
