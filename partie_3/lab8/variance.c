@@ -1,16 +1,18 @@
 #include "variance.h"
 
-void variance(int t[] , int n , int *var)
+void variance(int t[] , int n , float *var)
 {
-    int moyenne = 0, ecart = 0, i ;
+    float moyenne = 0, ecart = 0;
+    int i ;
 
     for ( i = 0; i < n; i++)
     {
-        moyenne = moyenne + ( t[i] / n );
+        moyenne = moyenne +  (float)t[i] ;
     }
+        moyenne = moyenne / n;
     for ( i = 0 ; i < n ; i++)
     {
-        ecart = ( t[i] - moyenne )^2;
+        ecart = ( (float)t[i] - moyenne ) * ( (float)t[i] - moyenne ) ;
         *var =  *var + ecart;
     }
     *var = *var / (n - 1);
