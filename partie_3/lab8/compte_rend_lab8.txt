@@ -1,0 +1,6 @@
+3- l'utilisation de gcc -E peut generer le fichier preprocessed C qui contient
+    le code C preprocesser 
+   l'utilisation de gcc -S peut generer le fichier processed C qui contient
+    le code C en assembly 
+   l'utilisation de gcc -c peut generer le fichier binaire du code c 
+ 
