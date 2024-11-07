@@ -4,3 +4,5 @@
     le code C en assembly 
    l'utilisation de gcc -c peut generer le fichier binaire du code c 
  
+ 3- le fichier .pyc est le fichier binaire creer par le compilateur afin de pouvoir executer le code et avoir un resultat plus rapidement si le code n'a pas ete changer 
+ 
