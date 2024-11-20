@@ -1,0 +1,44 @@
+2. Compile Object Files with Position Independent Code:
+     * Compiles object files suitable for shared libraries.
+
+3. Create Shared Library:
+   - Command: gcc -shared -o libname.so files.o
+
+6. Use LD_LIBRARY_PATH:
+   - Commands:
+     * echo $LD_LIBRARY_PATH
+       - Displays the current library paths.
+     * export LD_LIBRARY_PATH=/opt/lib:$LD_LIBRARY_PATH
+       - Temporarily adds `/opt/lib` to the library paths.
+
+7. Verify Dynamic Linking:
+   - Command: ldd main
+     * Lists the shared libraries used by the program.
+
+8. Locate Math Library:
+   - Command: ldconfig -p | grep libm
+     * Finds the `libm.so` library and displays its path.
+
+9.  sets read-only permissions:
+   - Commands:
+    * sudo chmod 444 (or + - to add wrx) /usr/lib/liboutils.so
+       - Copies the library and sets read-only permissions.
+
+10. Update Dynamic Linker Cache:
+    - Command: sudo ldconfig
+      * Updates the cache for the dynamic linker.
+
+11. Disable LD_LIBRARY_PATH:
+    - Command: unset LD_LIBRARY_PATH
+      * Removes the library path variable temporarily.
+
+12. Compile with `-l`:
+    - Command: gcc main.c -loutils -o main
+      * Links the program using only the library name.
+
+13. Push to GitHub:
+    - Commands:
+      * git add .
+      * git commit -m "Lab 10 files"
+      * git push
+      * Uploads the lab files and report to the repository.
