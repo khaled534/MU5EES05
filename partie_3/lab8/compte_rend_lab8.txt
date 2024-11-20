@@ -1,8 +1,38 @@
-3- l'utilisation de gcc -E peut generer le fichier preprocessed C qui contient
-    le code C preprocesser 
-   l'utilisation de gcc -S peut generer le fichier processed C qui contient
-    le code C en assembly 
-   l'utilisation de gcc -c peut generer le fichier binaire du code c 
- 
- 3- le fichier .pyc est le fichier binaire creer par le compilateur afin de pouvoir executer le code et avoir un resultat plus rapidement si le code n'a pas ete changer 
- 
+1. Create and Compile Files:
+   - Command: gcc -g file.c -o file
+     * Compile the C program in debug mode for testing and debugging.
+
+2. Preprocessing:
+   - Command: gcc -E file.c -o file.i
+     * Generate preprocessed file (file.i) by expanding macros and including headers.
+
+3. Compilation to Assembly:
+   - Command: gcc -S file.i -o file.s
+     * Convert preprocessed code into assembly language (file.s).
+
+4. Assembling:
+   - Command: gcc -c file.s -o file.o
+     * Transform assembly code into machine code, creating object file (file.o).
+
+5. Linking:
+   - Command: gcc file.o -o executable
+     * Link object files to produce the final executable binary.
+
+6. Intermediate Files and Extensions:
+   * .i -> Preprocessed file.
+   * .s -> Assembly code.
+   * .o -> Object file.
+   * executable -> Final binary file.
+
+7. Debugging:
+   - Use breakpoints (F9) in VS Code.
+     * Allows checking variable values during execution.
+
+8. Multi-File Compilation:
+   - Command: gcc file1.c file2.c -o program
+     * Combine multiple source files into a single executable.
+
+9. Python Compilation:
+   - Command: python -m compileall .
+     * Compile Python files into bytecode, generating .pyc files in __pycache__.
+
