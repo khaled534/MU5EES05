@@ -1,0 +1,29 @@
+1. Compile Object Files:
+   - Command: gcc -c max.c min.c
+     * Compiles the source files into object files without linking.
+
+2. Create Static Library:
+   - Command: ar r libname.a file1.o file2.o
+     * Creates the static library containing the object files.
+
+3. Verify Library Contents:
+   - Command: ar t libname.a 
+     * Lists the files included in the library.
+
+4. Generate Library Index:
+   - Command: ranlib libname.a
+     * Generates an index for efficient linking.
+
+6. Compile and Link Main Program:
+   - Command: gcc main.c -I/opt/include -L/opt/lib -lname(library name without the lib and .a) -o main
+     * Links `main.c` with the static library to create an executable.
+
+8. Verify Library Update:
+   - Commands:
+     * ar t /opt/lib/liboutils.a
+     * nm /opt/lib/liboutils.a
+     * Confirms the addition of the new object file.
+
+9. Use Math Library (`ceil` and `floor`):
+   - Command: gcc main.c -I/opt/include -L/opt/lib -loutils -lm -o main
+     * Links with the math library for rounding functions.
